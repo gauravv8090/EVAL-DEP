@@ -1,0 +1,62 @@
+{
+    "data": [
+      {
+        "book_name": "Gaurav",
+        "author": "GAURAV",
+        "genre": "music",
+        "edition": "2002",
+        "publisher": "gaurav",
+        "cost": "500",
+        "borrowed": false,
+        "id": 1
+      },
+      {
+        "book_name": "Gaurav",
+        "author": "GAURAV",
+        "genre": "music",
+        "edition": "2002",
+        "publisher": "gaurav",
+        "cost": "500",
+        "borrowed": false,
+        "id": 2
+      },
+      {
+        "book_name": "Gaurav",
+        "author": "GAURAV",
+        "genre": "music",
+        "edition": "2002",
+        "publisher": "gaurav",
+        "cost": "500",
+        "borrowed": false,
+        "id": 3
+      },{
+        "book_name": "Gaurav",
+        "author": "GAURAV",
+        "genre": "music",
+        "edition": "2002",
+        "publisher": "gaurav",
+        "cost": "500",
+        "borrowed": false,
+        "id": 4
+      },{
+        "book_name": "Gaurav",
+        "author": "GAURAV",
+        "genre": "music",
+        "edition": "2002",
+        "publisher": "gaurav",
+        "cost": "500",
+        "borrowed": false,
+        "id": 5
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
